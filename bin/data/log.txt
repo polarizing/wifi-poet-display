@@ -1,0 +1,11 @@
+add 5 "Monkeys"
+add 6 "Crickets"
+del 3
+del 2
+del 1
+del 4
+edit 5 "Monkeys can climb"
+add 7 "Owls can seek"
+add 8 "Horses can race"
+swap 7 8
+edit 6 "Crickets can leap"
